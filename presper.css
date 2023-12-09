@@ -1,0 +1,103 @@
+body{
+  background-image:url("../images/bookcase.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: sans-serif;
+  padding: 20px;
+  margin: 10%;
+  
+}
+
+.rules{
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  background-color: beige;
+  max-width: 500px;
+  border: solid burlywood 12px;
+  border-radius: 10px;
+  padding: 3%;
+  padding-right: 3%;
+}
+
+  h1, h2 {
+    font-family: Impact, serif;
+    text-align: center;
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 15px;
+  }
+  
+  p{
+  text-align: center;
+  font-style: italic;
+}
+
+hr{
+  background-color: #ff9933;
+  border-color: #ff9933;
+  height: 2px;
+  
+}
+
+
+
+.example{
+  text-align: left;
+  width: 100%;
+  
+}
+
+.explain{
+  text-align: right;
+  width: 100%;
+  padding-right: 10%;
+  
+}
+
+.bottom-line{
+  margin-top: 25px;
+}
+
+.sentence p{
+display: inline-block;
+margin:0;
+width: 45%;
+vertical-align: top;
+margin-bottom: 10px;
+font-style: italic;
+  
+}
+
+a:visited {
+  color: black;
+}
+
+a:hover {
+  color: brown;
+}
+
+a:active {
+  color: brown;
+}
+
+.centered-content{
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+footer {
+  font-size: 14px;
+  padding-bottom: 5%;
+}
+
+.fa-solid {
+  color:#ff9933;
+  text-align: center;
+  display:block;
+}
+
+article{
+  margin-top: 5px;
+}
